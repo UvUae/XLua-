@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3327448748
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6e97956f43f70e4612e16bf83e7c1314
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5e762ccb57c4caaabbb5a4199ac82c23
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6e97956f43f70e4612e16bf83e7c1314
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BuildResources/Model/mat/palyer.mat
+Dependencies: []
